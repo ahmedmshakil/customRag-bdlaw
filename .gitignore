@@ -85,3 +85,5 @@ wheels/
 *.pem
 *.key
 .env.backup 
+
+# Backup files
