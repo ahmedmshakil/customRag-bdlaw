@@ -87,3 +87,4 @@ wheels/
 .env.backup 
 
 # Backup files
+Notebooks
